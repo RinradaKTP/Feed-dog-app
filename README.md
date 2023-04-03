@@ -1,6 +1,5 @@
 # Feed-dog-app
 How to installer
-
 1.download zip file
 2.serect program run source code
 3.run program
