@@ -1,6 +1,3 @@
-
-
-
 # Feed-dog-app
 How to installer
 1.download zip file
